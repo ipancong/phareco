@@ -8,3 +8,5 @@ org.scala-ide.sdt.update-site/site.xml
 target
 *.class
 .DS_Store
+.cache-main
+data/
